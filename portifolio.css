@@ -1,0 +1,28 @@
+img {
+    width:320px;
+    height:205px;
+    border-radius: 30%;
+    
+}
+
+body {
+  
+    background-image: radial-gradient(circle, rgb(0, 47, 255), rgb(12, 11, 12), rgb(0, 128, 122));
+    
+
+}
+
+header {
+    border: 1;
+    background-color:black;
+    text-align: center;
+    color: beige;     
+}
+
+main {
+    text-align:center;
+    color: bisque;
+    background-color: black;
+}
+
+li { list-style-type: none; }
